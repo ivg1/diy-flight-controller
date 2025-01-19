@@ -1,0 +1,1 @@
+pip install vgamepad pyvjoy pyserial
