@@ -18,3 +18,10 @@ See the wiring of the project here: https://wokwi.com/projects/42051017331032678
 
 ## Demo
 See the demo play here: https://www.youtube.com/watch?v=cUjkdGvfNZE
+
+## Important notice
+When using the pyvjoy module, make sure that you enabled the vJoystick in the configuration.  
+To check:
+1. Search using the windows key for "configure vjoy"
+2. Open the app and in the bottom left corner make sure the checkbox "Enable vJoy" is ticked
+![image](https://github.com/user-attachments/assets/438c2cbd-6096-42cb-857f-2cbd7da89a5b)
